@@ -1,0 +1,4 @@
+﻿  Win32Project1.cpp
+c:\users\luxiang\desktop\about_transparent\win32project1\win32project1.cpp(355): warning C4838: 从“UINT”转换到“LONG”需要收缩转换
+  Win32Project1.vcxproj -> C:\Users\luxiang\Desktop\about_transparent\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\Users\luxiang\Desktop\about_transparent\Debug\Win32Project1.pdb (Full PDB)
